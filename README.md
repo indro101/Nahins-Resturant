@@ -1,2 +1,2 @@
 # Nahins-Resturant
-This a website for restaurant
+This is a website for a restaurant
